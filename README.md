@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on: QR-based Attendance System  
 🌱 I’m learning: Java, OpenCV  
-💬 Ask me about: HTML, CSS, Java,C++, Teaching Techniques,Sterlization process
+💬 Ask me about: HTML, CSS, Java,C++, Teaching Techniques
 📫 How to reach me: imanriaz004@gmail.com  
 ⚡ Fun fact: I can teach both coding and science!
 
