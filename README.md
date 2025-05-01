@@ -2,7 +2,7 @@
 🎓 CS Student | 💻 Web Developer | 👩‍🏫 Former Teacher
 
 🔭 I’m currently working on: QR-based Attendance System  
-🌱 I’m learning: Java, Servlets, OpenCV  
+🌱 I’m learning: Java, OpenCV  
 💬 Ask me about: HTML, CSS, Java, Teaching Techniques  
 📫 How to reach me: imanriaz004@gmail.com  
 ⚡ Fun fact: I can teach both coding and science!
