@@ -52,8 +52,3 @@
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImanRiaz&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
