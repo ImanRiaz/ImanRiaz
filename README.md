@@ -1,6 +1,6 @@
 <!-- Animated Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Iman+Riaz;20+years+old;Computer+Science+Student;Welcome+to+my+GitHub+Profile+👩‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Iman+Riaz;Computer+Science+Student;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ImanRiaz&style=flat-square&color=blue)
