@@ -9,12 +9,11 @@
 
 ---
 
-
 ##  Languages & Tools :
 
 <p align="center">
   
-   <img src="https://skillicons.dev/icons?i=,java,cpp,c,html,css,js,vscode,github,git,figma" />
+   <img src="https://skillicons.dev/icons?i=,java,python,cpp,c,html,css,js,vscode,github,git,figma" />
 </p>
 
 <p align="center">
@@ -22,7 +21,6 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI%2FUX-Design-FF69B4?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
 </p>
-
 
 ##  Let's Connect :
 
@@ -34,7 +32,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 
 ## GitHub Stats :
 
