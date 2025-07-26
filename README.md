@@ -13,7 +13,7 @@
 
 <p align="center">
   
-   <img src="https://skillicons.dev/icons?i=,java,python,cpp,c,html,css,js,vscode,github,git,figma" />
+   <img src="https://skillicons.dev/icons?i=,java,python,cpp,c,html,css,js,vscode,visualstudio,pycharm,github,git,figma" />
 </p>
 
 <p align="center">
